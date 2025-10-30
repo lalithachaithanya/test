@@ -1,0 +1,9 @@
+This implementation demonstrates:
+
+Single inheritance with Person → Employee
+
+Multilevel inheritance with Vehicle → Car → ElectricCar
+
+Hierarchical inheritance with Animal inherited by both Dog and Cat
+
+Hybrid inheritance combining interface implementation (Engine) with class inheritance (Vehicle → Car)
